@@ -12,8 +12,8 @@ A quoi ça ressemble ? voici le lien pour aller voir : http://foxacademy.tech/
 
 état d'avancement : 
 
-- le 24/08 le site est uploader chez OVH
-- le 25/08 il est enfin dispo
+- le 24/08 le site est uploadé chez OVH
+- le 25/08 il est enfin dispo (Hello world \o/)
 
 vu que c'est un site "vitrine" d'entrainement, j'ai rempli sans personnaliser les pages liées au footer. donc pour bien faire il faudrait :
 
